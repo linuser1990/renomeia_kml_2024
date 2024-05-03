@@ -1,0 +1,7336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>ads</name>
+<visibility>1</visibility>
+<Folder id="kml_ft_ads">
+<name>ads</name>
+<Placemark id="kml_1">
+<name>DT10/150 1-U1 1-S0T 1-U3 1-S1 </name>
+<Point>
+<coordinates>-42.5357763772015,-20.9776466040283,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>MD10/Leve 1-U2 1-S1 </name>
+<Point>
+<coordinates>-42.5353933944632,-20.9775507675668,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>DT10/150 1-S0 1-U3 1-U4 </name>
+<Point>
+<coordinates>-42.5366735229954,-20.9768740239674,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>DT10/300 1-S0T 2-U3 </name>
+<Point>
+<coordinates>-42.5376685502686,-20.9759945004296,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>DT10/300 1-S0T 1-U3 </name>
+<Point>
+<coordinates>-42.5375084162369,-20.9752066249165,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>MD10/Médio 1-S0T 2-U3 </name>
+<Point>
+<coordinates>-42.5386514431412,-20.9740944686005,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>DT10/150 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.5389388976258,-20.9735658857549,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>DT10/300 1-S0T 1-U3 </name>
+<Point>
+<coordinates>-42.5396145015923,-20.9734040871569,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>DT10/150 1-S0T </name>
+<Point>
+<coordinates>-42.5355055334972,-20.9754033893604,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>MD10/Médio 1-U2 1-S1 </name>
+<Point>
+<coordinates>-42.5359379008435,-20.975418674869,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>MD10/Médio 1-S0T 1-U3 1-U23 </name>
+<Point>
+<coordinates>-42.536391711786,-20.9752988281493,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_12">
+<name>DT10/300 1-S0T 1-U3 </name>
+<Point>
+<coordinates>-42.53614062971,-20.9753674313304,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_13">
+<name>DT10/150 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.5266898503468,-20.9766418268176,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_14">
+<name>DT10/150 1-S0T </name>
+<Point>
+<coordinates>-42.531736220194,-20.9783736511989,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_15">
+<name>DT11/300 1-U1 1-S1 </name>
+<Point>
+<coordinates>-42.5301763942806,-20.9783426378582,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_16">
+<name>DT11/300 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.5274355841069,-20.9765896305698,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_17">
+<name>MD10/Médio 1-U1 1-S1 </name>
+<Point>
+<coordinates>-42.5277907326787,-20.9766295496195,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_18">
+<name>MD10/Leve 1-U1 1-S0T 2-U3 1-S5 </name>
+<Point>
+<coordinates>-42.529886557851,-20.9768971631987,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_19">
+<name>DT11/300 1-U1 1-S1 1-U3 1-S0T </name>
+<Point>
+<coordinates>-42.5292262296784,-20.9768009923769,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_20">
+<name>DT11/300 1-S0T 1-U3 1-RA1 </name>
+<Point>
+<coordinates>-42.5290905678727,-20.9765035826603,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_21">
+<name>DT10/300 1-S0T 1-U3 </name>
+<Point>
+<coordinates>-42.5314322090098,-20.9781525389831,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_22">
+<name>DT11/300 1-U1 1-S1 1-RA1 </name>
+<Point>
+<coordinates>-42.5304245319072,-20.9773775636813,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_23">
+<name>MD10/Leve 1-S0 2-U3 1-U4 </name>
+<Point>
+<coordinates>-42.5308117336287,-20.9774094538287,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_24">
+<name>DT10/150 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.5214760662732,-20.9738363646913,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_25">
+<name>DT10/300 1-S0T 1-U3 </name>
+<Point>
+<coordinates>-42.5219756197161,-20.9732747845323,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_26">
+<name>MD10/Leve 1-S0 1-U3 1-U4 </name>
+<Point>
+<coordinates>-42.5292065233686,-20.9760877462763,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_27">
+<name>DT10/300 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.5301182877198,-20.9756142876796,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_28">
+<name>DT11/300 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.5300482155105,-20.9752042400985,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_29">
+<name>DT10/300 1-S0T 1-U3 </name>
+<Point>
+<coordinates>-42.5287408729,-20.9751970133802,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_30">
+<name>DT11/300 2-S0T 1-S0 2-U3 1-U4 </name>
+<Point>
+<coordinates>-42.5283071091114,-20.9739928810417,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_31">
+<name>DT11/300 1-S0T 1-U3 </name>
+<Point>
+<coordinates>-42.529690324371,-20.9731093779003,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_32">
+<name>DT10/300 1-S0T 1-U2 1-U3 1-S1 </name>
+<Point>
+<coordinates>-42.5280015190217,-20.9738568879162,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_33">
+<name>DT10/300 1-S0T 1-S0 1-U3 1-S4 </name>
+<Point>
+<coordinates>-42.5280984462261,-20.9735575259949,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_34">
+<name>DT10/300 1-S0T 1-U2 </name>
+<Point>
+<coordinates>-42.5280175360239,-20.973344973905,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_35">
+<name>DT11/300 1-S0T 1-U2 1-RA1 </name>
+<Point>
+<coordinates>-42.5283925793399,-20.9732678881294,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_36">
+<name>DT11/300 1-S0T 1-U3 </name>
+<Point>
+<coordinates>-42.5262053144689,-20.9762566391486,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_37">
+<name>MD10/Leve 1-U2 1-S1 </name>
+<Point>
+<coordinates>-42.52738036017,-20.9746528403067,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_38">
+<name>DT10/300 1-S0T 1-U3 </name>
+<Point>
+<coordinates>-42.5227792637932,-20.9746769953332,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_39">
+<name>DT10/300 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.525878346183,-20.9733205047447,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_40">
+<name>DT11/300 1-S0T 1-U3 1-RA1 </name>
+<Point>
+<coordinates>-42.525228195605,-20.972969478412,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_41">
+<name>DT10/300 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.5293560997578,-20.9639143246464,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_42">
+<name>DT10/150 1-S0 1-U3 1-U4 </name>
+<Point>
+<coordinates>-42.5256758012846,-20.9663308148732,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_43">
+<name>DT10/300 1-U2 1-S1 </name>
+<Point>
+<coordinates>-42.5242100522116,-20.9654520019228,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_44">
+<name>DT10/300 1-S0 1-U3 1-U4 </name>
+<Point>
+<coordinates>-42.5246236211539,-20.9651941729682,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_45">
+<name>DT10/300 1-S0T 1-U3 </name>
+<Point>
+<coordinates>-42.5250695528773,-20.9646288210627,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_46">
+<name>DT11/300 2-S0T 2-U3 </name>
+<Point>
+<coordinates>-42.5273867614243,-20.9648510887906,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_47">
+<name>DT11/300 1-S0T 1-U3 1-RA1 </name>
+<Point>
+<coordinates>-42.5274886805704,-20.9647504455039,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_48">
+<name>DT11/300 1-S0T 1-U2 1-RA1 </name>
+<Point>
+<coordinates>-42.5277910865901,-20.9644067508029,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_49">
+<name>DT10/300 1-S0 7-S0T 7-U3 1-U4 </name>
+<Point>
+<coordinates>-42.5280736148008,-20.9645176676732,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_50">
+<name>DT10/300 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.5272933444485,-20.9645049911444,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_51">
+<name>DT11/300 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.526915223962,-20.9632804460642,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_52">
+<name>DT11/300 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.5269090052499,-20.9631559308907,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_53">
+<name>DT11/300 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.5272638905173,-20.9630404488347,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_54">
+<name>DT11/300 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.527127525994,-20.9630028037657,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_55">
+<name>DT11/300 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.5267763735256,-20.9632478210767,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_56">
+<name>DT11/300 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.526796175413,-20.9632537067202,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_57">
+<name>DT11/300 1-S0T 1-U2 1-RA1 </name>
+<Point>
+<coordinates>-42.5256303741308,-20.9631162389167,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_58">
+<name>DT11/300 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.5260752021174,-20.9628451348916,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_59">
+<name>DT11/300 1-S0 1-S0T 1-U3 1-U4 </name>
+<Point>
+<coordinates>-42.5264195650006,-20.9628374932216,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_60">
+<name>DT11/300 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.5264157471219,-20.9627423584054,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_61">
+<name>DT11/300 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.5265369851196,-20.9626067814594,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_62">
+<name>DT11/300 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.5266698138084,-20.9623217557635,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_63">
+<name>DT11/300 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.5266826515408,-20.9624704754669,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_64">
+<name>DT11/300 1-S1 1-U4 </name>
+<Point>
+<coordinates>-42.5251637138068,-20.9621266139873,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_65">
+<name>DT11/300 1-U2 1-S1 </name>
+<Point>
+<coordinates>-42.5242753016021,-20.9616359643322,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_66">
+<name>DT11/300 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.525271719607,-20.9616444789059,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_67">
+<name>DT11/300 1-U2 1-S1 </name>
+<Point>
+<coordinates>-42.5252051343892,-20.961724324793,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_68">
+<name>DT11/300 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.5245292165486,-20.9610087709191,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_69">
+<name>DT11/300 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.5248924619117,-20.960928268354,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_70">
+<name>DT11/300 1-S0T 1-U3 1-RA1 </name>
+<Point>
+<coordinates>-42.5242565578952,-20.9598553705889,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_71">
+<name>DT10/300 1-S0 1-U3 1-U4 </name>
+<Point>
+<coordinates>-42.5231132592325,-20.9679396315335,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_72">
+<name>DT11/300 1-U2 1-S1 </name>
+<Point>
+<coordinates>-42.5230440261867,-20.9673457571033,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_73">
+<name>DT11/300 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.5219716241258,-20.966375397594,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_74">
+<name>DT11/300 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.5218905969178,-20.966287266327,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_75">
+<name>DT11/300 2-U3 </name>
+<Point>
+<coordinates>-42.5220395547833,-20.9656252334425,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_76">
+<name>DT11/300 2-U3 1-S00 </name>
+<Point>
+<coordinates>-42.5217490149645,-20.9654582082101,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_77">
+<name>DT11/300 1-S0T 1-U3 </name>
+<Point>
+<coordinates>-42.5235175793135,-20.9606289241116,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_78">
+<name>DT10/300 1-S0T 1-U3 </name>
+<Point>
+<coordinates>-42.5308442743155,-20.9583425413939,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_79">
+<name>DT10/300 1-S0T 2-U3 </name>
+<Point>
+<coordinates>-42.5283635454518,-20.9572140244395,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_80">
+<name>DT10/300 1-S0T 2-U3 </name>
+<Point>
+<coordinates>-42.5282885924492,-20.9570955552715,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_81">
+<name>DT10/300 1-S0T 1-U3 </name>
+<Point>
+<coordinates>-42.5258002443013,-20.9576012121513,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_82">
+<name>DT10/150 1-S0 1-U3 1-U4 </name>
+<Point>
+<coordinates>-42.5268131804642,-20.9573811505273,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_83">
+<name>DT10/150 1-U1 1-S1 </name>
+<Point>
+<coordinates>-42.5276214795618,-20.9573296725824,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_84">
+<name>DT11/300 1-S0T 2-U3 </name>
+<Point>
+<coordinates>-42.5244232061269,-20.9571658638659,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_85">
+<name>DT10/150 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.5250730740632,-20.9552228792963,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_86">
+<name>DT10/300 1-S0T 1-U3 </name>
+<Point>
+<coordinates>-42.525781262543,-20.9538529292422,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_87">
+<name>DT11/300 1-S0 1-U4 1-RA1 </name>
+<Point>
+<coordinates>-42.5248158073236,-20.9545185537886,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_88">
+<name>DT10/300 1-S0T </name>
+<Point>
+<coordinates>-42.5251090742176,-20.9534557198121,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_89">
+<name>DT11/300 1-S0T 1-U3 1-RA1 </name>
+<Point>
+<coordinates>-42.5342502592863,-20.9639845893075,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_90">
+<name>DT10/300 1-S0T 1-U3 </name>
+<Point>
+<coordinates>-42.5357848130683,-20.9642290041186,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_91">
+<name>DT11/300 1-U1 1-S0T 1-U3 1-S1 </name>
+<Point>
+<coordinates>-42.5360332196438,-20.9637359779362,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_92">
+<name>DT11/300 1-U1 1-S1 </name>
+<Point>
+<coordinates>-42.5355660648804,-20.9635578432282,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_93">
+<name>DT10/300 1-S0T 2-U3 </name>
+<Point>
+<coordinates>-42.5349540836148,-20.9634945432134,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_94">
+<name>MD10/Médio 1-S0T 1-U3 </name>
+<Point>
+<coordinates>-42.5359273745504,-20.9619827378008,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_95">
+<name>DT10/300 1-S0 2-U3 1-U4 </name>
+<Point>
+<coordinates>-42.5323747187295,-20.9617326799843,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_96">
+<name>DT10/300 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.5325935392099,-20.9618712898804,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_97">
+<name>DT10/150 1-U1 1-S1 </name>
+<Point>
+<coordinates>-42.5322969657396,-20.9611988186265,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_98">
+<name>DT10/150 1-U1 1-S1 </name>
+<Point>
+<coordinates>-42.5322235099258,-20.9604031664924,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_99">
+<name>DT10/150 1-U1 1-S1 </name>
+<Point>
+<coordinates>-42.5322028275964,-20.9599062492265,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_100">
+<name>DT10/300 1-U1 1-S1 </name>
+<Point>
+<coordinates>-42.534133774082,-20.9605662606678,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_101">
+<name>DT10/300 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.538376165652,-20.9638962553754,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_102">
+<name>DT10/150 1-U1 1-S1 </name>
+<Point>
+<coordinates>-42.5378117937224,-20.9637255708711,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_103">
+<name>DT10/300 1-S0 1-U3 1-U4 </name>
+<Point>
+<coordinates>-42.5364175053959,-20.9631636509971,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_104">
+<name>DT10/150 1-S0 1-U3 1-U4 </name>
+<Point>
+<coordinates>-42.536738526912,-20.9576513064492,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_105">
+<name>DT10/150 1-U1 1-S1 </name>
+<Point>
+<coordinates>-42.5354269228662,-20.9590860826904,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_106">
+<name>DT10/150 1-S0 2-U3 1-U4 </name>
+<Point>
+<coordinates>-42.5319421587299,-20.9575443525309,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_107">
+<name>DT10/300 1-S0T 1-U3 </name>
+<Point>
+<coordinates>-42.5319321418695,-20.9574577056789,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_108">
+<name>DT10/150 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.5354188413412,-20.9543003663149,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_109">
+<name>DT10/150 1-U1 1-S1 1-U3 </name>
+<Point>
+<coordinates>-42.5351683929239,-20.9537459493393,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_110">
+<name>DT11/300 1-S0T 1-U2 </name>
+<Point>
+<coordinates>-42.5344554585936,-20.9536865183708,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_111">
+<name>DT10/300 1-S0 1-U4 </name>
+<Point>
+<coordinates>-42.5394138447596,-20.9545296441977,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_112">
+<name>DT11/300 1-S0T 1-U3 1-RA1 1-GLV </name>
+<Point>
+<coordinates>-42.5359901975906,-20.952581385449,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_113">
+<name>DT10/150 1-U1 1-S1 </name>
+<Point>
+<coordinates>-42.5347958103245,-20.9531717069512,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_114">
+<name>DT10/300 1-S0 1-S0T 2-U3 1-U4 1-GLV </name>
+<Point>
+<coordinates>-42.5350750191476,-20.9526748820053,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_115">
+<name>DT11/300 1-S0T 1-U1 1-U3 1-S1 1-GLV </name>
+<Point>
+<coordinates>-42.53466461716,-20.9522324641383,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_116">
+<name>MD10/Médio 1-S0T 1-U3 </name>
+<Point>
+<coordinates>-42.5320419028359,-20.9527255328768,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_117">
+<name>X: 0756995; Y: 7678767</name>
+<Point>
+<coordinates>-42.52844014986,-20.974022802787,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_118">
+<name>X: 0757219; Y: 7678710</name>
+<Point>
+<coordinates>-42.5259649063483,-20.9733415364241,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_119">
+<Point>
+<coordinates>-42.5707714917838,-21.0560750336989,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_120">
+<Point>
+<coordinates>-42.5565429676254,-21.0680151952285,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_121">
+<Point>
+<coordinates>-42.6626012019388,-21.0770422796195,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_122">
+<name>  CAA 4 A 175 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5351603031082,-20.9781280755695,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_123">
+<name>  CAA 4 A 40 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5355756636628,-20.9775748050788,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_124">
+<name>15 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5353932478365,-20.9775597045655,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_125">
+<name>05309137</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5353933944632,-20.9775507675668,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_126">
+<name>0802162</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5357099845598,-20.977591466794,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_127">
+<name>  CAA 4 A 123 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5362326292587,-20.9772318025329,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_128">
+<name>0532133</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5376815370803,-20.9759001500858,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_129">
+<name>0802165</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5376694380219,-20.975940336698,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_130">
+<name>  CAA 4 A 89 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5375866111691,-20.9755915964806,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_131">
+<name>  CAA 4 A 142 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5371780619763,-20.9764280440582,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_132">
+<name>  CAA 4 A 173 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5365443294845,-20.9760932772714,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_133">
+<name>  CAA 4 A 232 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5381771764254,-20.9750523185828,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_134">
+<name>15 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5374818615627,-20.9750612264362,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_135">
+<name>05309138</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5374761144904,-20.9750541023099,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_136">
+<name>  CAA 4 A 73 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5393143999958,-20.9735075633055,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_137">
+<name>10 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5387286004285,-20.9740034257726,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_138">
+<name>05309251</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5387304681421,-20.9739946615243,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_139">
+<name>  CAA 4 A 67 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5388262848829,-20.973849859576,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_140">
+<name>5 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5396143552482,-20.9734130241884,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_141">
+<name>05309446</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5396145015923,-20.9734040871569,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_142">
+<name>5 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5357831996573,-20.9754797177365,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_143">
+<name>05309267</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5357911400323,-20.9754747912036,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_144">
+<name>  M2x1x25+25 AB 45 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5357376049999,-20.9754388018641,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_145">
+<name>  CAA 4 A 29 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5362698301953,-20.9753503386272,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_146">
+<name>0532135</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5363501353306,-20.9753133058591,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_147">
+<name>0532134</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5362803261986,-20.9752555009508,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_148">
+<name>  CA 2 A 49 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5361814927392,-20.9753905960388,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_149">
+<name>10 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5360950083724,-20.9752442571332,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_150">
+<name>05309139</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5360980846284,-20.9752357989394,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_151">
+<name>  CAA 4 A 37 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5270479327706,-20.9765677490385,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_152">
+<name>  M2x1x25+25 AB 40 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5316215694757,-20.9782949686177,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_153">
+<name>  CAA 4 A 35 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5299720257079,-20.9784464912923,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_154">
+<name>10 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5299841897103,-20.9782563282572,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_155">
+<name>05310155</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.529984336664,-20.9782473912958,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_156">
+<name>  CAA 4 A 173 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5285982044102,-20.9766873193728,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_157">
+<name>  CAA 4 A 50 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5275310891981,-20.9765579696436,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_158">
+<name>0802288</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5299791789355,-20.9768479420259,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_159">
+<name>  CAA 4 A 70 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5297565672503,-20.9768277378833,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_160">
+<name>  CAA 4 A 130 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.52964559623,-20.9764494221805,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_161">
+<name>0532296</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5293638523508,-20.976745381524,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_162">
+<name>  CA 2 A 40 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5293326643177,-20.9766250188295,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_163">
+<name>5 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5315559007629,-20.978227204346,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_164">
+<name>05309320</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5315554313353,-20.9782361315046,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_165">
+<name>  CAA 4 A 120 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5310559828652,-20.9778036969422,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_166">
+<name>  CAA 4 A 115 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5303453077033,-20.9778691485507,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_167">
+<name>  CAA 4 A 14 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5305843224148,-20.9773653435109,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_168">
+<name>10 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5306706387671,-20.9772375651363,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_169">
+<name>05310096</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.530670786912,-20.9772286281871,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_170">
+<name>  CAA 4 A 69 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5303148458297,-20.9770905540206,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_171">
+<name>  CAA 4 B 164 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5221356532384,-20.9742618537692,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_172">
+<name>15 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5219754723244,-20.9732837214447,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_173">
+<name>05309100</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5219756197161,-20.9732747845323,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_174">
+<name>  CAA 4 B 266 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5222711303568,-20.9686460319385,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_175">
+<name>  CAA 4 A 144 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5301084939995,-20.976209995057,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_176">
+<name>10 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5292103250205,-20.9763722689066,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_177">
+<name>05310079</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5292058188587,-20.9763643963993,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_178">
+<name>0802161</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5291956166311,-20.9760202288304,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_179">
+<name>  CAA 4 A 130 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5289701522704,-20.975589055126,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_180">
+<name>  CAA 4 A 46 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5300824585611,-20.9753551663445,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_181">
+<name>15 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5287414683405,-20.9751608141939,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_182">
+<name>05309133</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5287416153444,-20.9751518772376,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_183">
+<name>  CAA 4 A 257 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.528617376245,-20.97501345989,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_184">
+<name>0802164</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5280235937389,-20.9740636199439,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_185">
+<name>  CAA 4 A 235 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5298684768456,-20.9741026663463,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_186">
+<name>5 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5296815786985,-20.9730653855862,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_187">
+<name>05309530</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5296909747893,-20.9730639695031,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_188">
+<name>15 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5284064802121,-20.9738605076551,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_189">
+<name>05309135</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5284066272258,-20.9738515706998,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_190">
+<name>  CA 2 A 50 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5283214921342,-20.9734049158088,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_191">
+<name>  CAA 4 A 25 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5280693124104,-20.9739025672843,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_192">
+<name>  CA 2 A 40 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5281575620525,-20.9736748629636,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_193">
+<name>  CA 2 A 25 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5280555100853,-20.9733975342737,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_194">
+<name>25 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5280283424149,-20.9731965071297,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_195">
+<name>05309956</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.528028489446,-20.9731875701762,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_196">
+<name>10 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5286872834891,-20.9732415547922,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_197">
+<name>08009200</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5286874304814,-20.9732326178343,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_198">
+<name>5 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5273059127073,-20.9764012004471,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_199">
+<name>05309266</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5273061627169,-20.9763922655198,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_200">
+<name>  CAA 4 A 74 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5266517114774,-20.9763832134827,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_201">
+<name>5 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5264947878793,-20.976090549732,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_202">
+<name>05310059</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5264949740546,-20.9760816134311,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_203">
+<name>15 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5273809559213,-20.9746166411553,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_204">
+<name>05309134</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5273811030018,-20.9746077042077,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_205">
+<name>  CAA 4 A 96 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5277019937371,-20.9743105104652,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_206">
+<name>10 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5227791164386,-20.9746859322496,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_207">
+<name>05309099</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5227792637932,-20.9746769953332,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_208">
+<name>0532292</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5279182466723,-20.9739573501086,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_209">
+<name>  CAA 4 A 231 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.526992330043,-20.9736204761978,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_210">
+<name>  CAA 4 A 73 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5256624110507,-20.9730645455805,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_211">
+<name>10 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5254926164048,-20.9728088953611,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_212">
+<name>05310066</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5254927635837,-20.9727999584244,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_213">
+<name>  CAA 4 B 121 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5287662388326,-20.9641897448438,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_214">
+<name>0808004</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5256970985905,-20.9663159548293,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_215">
+<name>0808003</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5255983732998,-20.9662458074515,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_216">
+<name>  CAA 4 B 305 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5244928230924,-20.9671298849169,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_217">
+<name>  CAA 4 B 180 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5250682360576,-20.9657422139225,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_218">
+<name>  CAA 4 B 49 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5242717729923,-20.9652999412967,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_219">
+<name>0808005</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5244194798006,-20.9651509359124,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_220">
+<name>5 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5240045537076,-20.9654702240923,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_221">
+<name>05309103</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5240122899486,-20.9654650197218,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_222">
+<name>10 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5251449789178,-20.9645117056332,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_223">
+<name>05309104</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5251394687027,-20.9645044186375,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_224">
+<name>  CAA 4 B 338 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.526986727797,-20.9654142242687,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_225">
+<name>5 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5275814045105,-20.9648988911734,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_226">
+<name>05310082</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5275776011526,-20.96489069813,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_227">
+<name>  CAA 4 B 196 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5254460352871,-20.9654615607507,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_228">
+<name>  CAA 4 B 86 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5278997611347,-20.9646785771993,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_229">
+<name>  CAA 4 B 86 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5278947569238,-20.9646672178566,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_230">
+<name>  CA 2 B 38 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5274853730027,-20.9646651601036,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_231">
+<name>  CA 2 B 40 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.527625156933,-20.964430708922,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_232">
+<name>5 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5277427494724,-20.9642501963467,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_233">
+<name>05310086</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5277389056611,-20.9642420199842,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_234">
+<name>  CAA 4 B 200 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5275500975717,-20.9639094367744,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_235">
+<name>  CAA 4 B 200 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5276010168702,-20.9638586178543,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_236">
+<name>  CAA 4 B 200 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5276044325642,-20.9638555071327,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_237">
+<name>5 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5272471393607,-20.9629873809953,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_238">
+<name>05310070</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5272551341063,-20.9629825336894,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_239">
+<name>  CAA 4 B 90 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5270152678147,-20.9626334076832,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_240">
+<name>  CAA 4 B 90 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.52682980859,-20.9627577593772,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_241">
+<name>  CA 2 B 78 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5258041323298,-20.9629494612588,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_242">
+<name>  CAA 4 B 90 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.526569094802,-20.9629863913471,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_243">
+<name>  CAA 4 B 90 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5265600669641,-20.9630034161238,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_244">
+<name>  CAA 4 B 90 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.526488258075,-20.9630618773401,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_245">
+<name>  CAA 4 B 90 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5267065932332,-20.9628616147046,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_246">
+<name>5 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5261914306499,-20.9628081665411,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_247">
+<name>05310076</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5261962901172,-20.9628004819107,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_248">
+<name>  CAA 4 B 146 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5255948900527,-20.9624395135184,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_249">
+<name>  CAA 4 B 148 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.525970879435,-20.9620521047468,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_250">
+<name>  CAA 4 B 148 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5258698674949,-20.9621561012611,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_251">
+<name>5 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5253316777962,-20.9631275412925,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_252">
+<name>05310072</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.525322718268,-20.9631305520276,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_253">
+<name>  CAA 4 B 105 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5245516943584,-20.9618679714727,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_254">
+<name>5 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5242160077949,-20.9615085525445,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_255">
+<name>05310092</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5242210970363,-20.9615010003246,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_256">
+<name>5 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5255292857279,-20.9615599750472,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_257">
+<name>05310088</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.525536500823,-20.961554147718,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_258">
+<name>  CAA 4 B 105 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5250820014115,-20.9612800969892,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_259">
+<name>  CAA 4 B 105 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5250077189476,-20.9613253387954,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_260">
+<name>  CAA 4 B 140 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5243606255979,-20.9604122792354,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_261">
+<name>5 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5239663206427,-20.9598971071764,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_262">
+<name>05310078</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5239747676322,-20.9598929921988,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_263">
+<name>  CAA 4 B 404 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5308124759955,-20.9628016141394,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_264">
+<name>  CAA 4 B 200 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5277635383449,-20.9637379055075,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_265">
+<name>  CAA 4 B 200 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5277019476519,-20.9637771023211,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_266">
+<name>  CAA 4 B 200 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5276630195633,-20.9638060635675,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_267">
+<name>  CA 2 B 70 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5232333165765,-20.9676194803059,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_268">
+<name>15 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5231573703323,-20.9671834643916,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_269">
+<name>05309533</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5231564371572,-20.9671745694723,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_270">
+<name>5 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5217093968563,-20.9671396585707,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_271">
+<name>05309980</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.521700075806,-20.9671378592816,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_272">
+<name>  CAA 4 B 101 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.521761112598,-20.9666718392522,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_273">
+<name>  CAA 4 B 100 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5218855294607,-20.9667287281092,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_274">
+<name>  CAA 4 B 85 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5221416933648,-20.965960534296,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_275">
+<name>  CAA 4 B 93 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.521819016177,-20.9658185947987,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_276">
+<name>  CAA 4 B 85 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5217300066343,-20.965579105669,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_277">
+<name>  CAA 4 B 140 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5237172695389,-20.9611112855921,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_278">
+<name>5 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.530705185173,-20.9585048923101,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_279">
+<name>05309337</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5307109929955,-20.958497812286,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_280">
+<name>  CAA 4 B 380 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5301200956931,-20.9573337565898,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_281">
+<name>  M2x1x25+25 AB 13 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5283372726299,-20.9571866455226,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_282">
+<name>  CAA 4 B 15 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5283573576825,-20.9571928059136,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_283">
+<name>  M2x1x25+25 AB 2 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5282980618384,-20.9571276566671,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_284">
+<name>5 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5280544410365,-20.9570816927322,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_285">
+<name>05309338</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5280451764563,-20.9570796546175,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_286">
+<name>10 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5258000972573,-20.957610149106,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_287">
+<name>05309988</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5258002443013,-20.9576012121513,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_288">
+<name>  CAA 4 B 108 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.526328012635,-20.9575228232599,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_289">
+<name>  CAA 4 B 84 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5272363281742,-20.9573867487931,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_290">
+<name>  M2x1x25+25 AB 75 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5280006078864,-20.957288128965,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_291">
+<name>  CAA 4 B 78 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5280088968577,-20.9573043215156,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_292">
+<name>5 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5244230590045,-20.9571748008117,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_293">
+<name>05309989</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5244232061269,-20.9571658638659,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_294">
+<name>  CAA 4 B 250 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5256376172395,-20.9573022358874,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_295">
+<name>  CAA 4 B 226 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5246855475138,-20.9561896255808,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_296">
+<name>  CAA 4 B 64 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5249589872472,-20.9549067293008,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_297">
+<name>5 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5248662824706,-20.9546113760895,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_298">
+<name>05310074</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5248567683644,-20.954611248296,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_299">
+<name>  CAA 4 B 96 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5253110915266,-20.9542288593214,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_300">
+<name>10 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5255836340356,-20.9538236946092,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_301">
+<name>05309990</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5255837810633,-20.953814757652,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_302">
+<name>  M2x1x25+25 AB 63 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5253663152886,-20.9536591845925,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_303">
+<name>  CAA 4 B 218 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5393447415115,-20.9642975189198,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_304">
+<name>25 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5357846665668,-20.9642379411339,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_305">
+<name>05309106</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5357848130683,-20.9642290041186,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_306">
+<name>  CAA 4 B 59 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5359203732129,-20.9640051386128,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_307">
+<name>5 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5354798660973,-20.963538447308,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_308">
+<name>05309524</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5354800126116,-20.963529510294,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_309">
+<name>  CAA 4 B 91 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5346728328122,-20.9635985562632,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_310">
+<name>10 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.535156127092,-20.9633655996419,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_311">
+<name>05309450</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5351590746099,-20.9633571011659,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_312">
+<name>5 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.534223200502,-20.9635803701562,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_313">
+<name>05309565</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5342208869327,-20.9635717002959,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_314">
+<name>  CAA 4 B 423 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5345146903692,-20.9625205928839,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_315">
+<name>5 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5359272280745,-20.9619916748194,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_316">
+<name>05309071</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5359273745504,-20.9619827378008,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_317">
+<name>  CAA 4 B 27 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5324922164053,-20.9618070682532,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_318">
+<name>0802172</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5326532445052,-20.9617359908413,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_319">
+<name>  CAA 4 B 224 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5332622191884,-20.9611441706689,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_320">
+<name>  CAA 4 B 60 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5323345487779,-20.961456701163,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_321">
+<name>  CAA 4 B 88 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.532259424911,-20.960791951377,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_322">
+<name>  CAA 4 B 55 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5322127417857,-20.9601455819701,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_323">
+<name>  CAA 4 B 212 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5347865232365,-20.959819129282,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_324">
+<name>  CAA 4 B 62 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5381032590377,-20.9638136659586,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_325">
+<name>  CAA 4 B 158 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5371235298744,-20.9634481718035,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_326">
+<name>0532029</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5363897089245,-20.9631000430747,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_327">
+<name>0802173</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5363877857456,-20.9632173978891,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_328">
+<name>  CAA 4 B 140 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5361689246675,-20.9625647463096,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_329">
+<name>0802180</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5367012686103,-20.9575785324242,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_330">
+<name>  CAA 4 B 444 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5380822766237,-20.9560833462981,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_331">
+<name>  CAA 4 B 209 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.536089090186,-20.9583617451922,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_332">
+<name>  CAA 4 B 263 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5320715356244,-20.9587162576277,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_333">
+<name>  CAA 4 B 144 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5314008174488,-20.9579636033728,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_334">
+<name>  CAA 4 B 10 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.531936097174,-20.9574919844394,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_335">
+<name>15 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5319240110485,-20.957255778572,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_336">
+<name>05309105</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5319243558963,-20.9572468463866,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_337">
+<name>0532176</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5318704888462,-20.9575243528535,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_338">
+<name>  CAA 4 B 396 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5360753570212,-20.9559673014062,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_339">
+<name>  CAA 4 B 67 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5352898128882,-20.9540147957684,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_340">
+<name>  CA 2 B 75 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5348026581472,-20.9536922624875,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_341">
+<name>5 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5344544407736,-20.9536502086055,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_342">
+<name>05309532</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5344559101893,-20.9536413777493,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_343">
+<name>  CAA 4 B 265 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5400412293538,-20.9534787317895,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_344">
+<name>  CAA 2 B 122 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5355525479826,-20.9523586230481,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_345">
+<name>5 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5361717388931,-20.9523469840648,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_346">
+<name>05309541</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5361742163154,-20.9523383542646,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_347">
+<name>  CAA 4 B 66 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5349006048771,-20.9532232455555,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_348">
+<name>  CAA 4 B 60 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5348809877523,-20.952907021981,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_349">
+<name>  CAA 4 B 283 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5346186623274,-20.952696273519,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_350">
+<name>  CAA 4 B 253 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5346167378459,-20.9525439191594,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_351">
+<name>0532129</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5346721743084,-20.9526510876485,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_352">
+<name>  CAA 4 B 53 m </name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5348881916998,-20.952426399107,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_353">
+<name>5 kVA</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5320442787028,-20.9525951767624,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_354">
+<name>05309254</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5320447648699,-20.9525862503736,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_355">
+<name>kml_355</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5353933944632,-20.9775507675668,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_356">
+<name>kml_356</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5375084162369,-20.9752066249165,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_357">
+<name>kml_357</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5386770700093,-20.9741263516699,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_358">
+<name>kml_358</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5396431110264,-20.9734299634494,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_359">
+<name>kml_359</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5359635081592,-20.975445862733,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_360">
+<name>kml_360</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.53614062971,-20.9753674313304,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_361">
+<name>kml_361</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5273003390666,-20.9765299692215,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_362">
+<name>kml_362</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5300641626702,-20.9783039895676,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_363">
+<name>kml_363</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5292404023418,-20.9764770430977,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_364">
+<name>kml_364</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5314615290751,-20.9781760792582,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_365">
+<name>kml_365</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5305452722782,-20.9773254994041,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_366">
+<name>kml_366</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5219756197161,-20.9732747845323,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_367">
+<name>kml_367</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5287416153444,-20.9751518772376,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_368">
+<name>kml_368</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5296910664494,-20.9730642417142,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_369">
+<name>kml_369</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5282221889285,-20.9738545826313,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_370">
+<name>kml_370</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5280182786137,-20.9732998377774,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_371">
+<name>kml_371</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5285265460572,-20.9733057690509,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_372">
+<name>kml_372</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5263701561664,-20.9761944735313,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_373">
+<name>kml_373</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5273811030018,-20.9746077042077,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_374">
+<name>kml_374</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5227792637932,-20.9746769953332,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_375">
+<name>kml_375</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5253750222933,-20.9728918823782,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_376">
+<name>kml_376</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5240853710083,-20.9654228310938,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_377">
+<name>kml_377</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5252208815762,-20.9646100710383,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_378">
+<name>kml_378</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5275251463317,-20.9648186047838,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_379">
+<name>kml_379</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5277918289015,-20.9643616146357,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_380">
+<name>kml_380</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5272553233486,-20.9629827170235,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_381">
+<name>kml_381</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5261965769491,-20.9628005763688,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_382">
+<name>kml_382</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5254673753872,-20.9630790184106,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_383">
+<name>kml_383</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5241334979101,-20.9616193667311,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_384">
+<name>kml_384</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5254177947269,-20.9616468711835,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_385">
+<name>kml_385</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.524055299763,-20.95985930891,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_386">
+<name>kml_386</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5231759048117,-20.9673174261236,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_387">
+<name>kml_387</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5216255938711,-20.9671191685252,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_388">
+<name>kml_388</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5308743711957,-20.9583712394975,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_389">
+<name>kml_389</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5283172292277,-20.9571253161207,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_390">
+<name>kml_390</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5258317711249,-20.9576305638719,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_391">
+<name>kml_391</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5244513689983,-20.9571951669498,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_392">
+<name>kml_392</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5249998828573,-20.9546295793663,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_393">
+<name>kml_393</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5256108082492,-20.9538429605063,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_394">
+<name>kml_394</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5357848130683,-20.9642290041186,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_395">
+<name>kml_395</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5355444783367,-20.9636197437635,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_396">
+<name>kml_396</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5351064174466,-20.9634964761086,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_397">
+<name>kml_397</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5342580655547,-20.963696212277,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_398">
+<name>kml_398</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5359273745504,-20.9619827378008,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_399">
+<name>kml_399</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5319321418695,-20.9574577056789,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_400">
+<name>kml_400</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5344561984909,-20.9536413819195,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_401">
+<name>kml_401</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5361092863939,-20.9524996748097,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_402">
+<name>kml_402</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.532074147226,-20.9527521850332,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_403">
+<name>kml_403</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5353933944632,-20.9775507675668,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_404">
+<name>kml_404</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5375084162369,-20.9752066249165,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_405">
+<name>kml_405</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5386770700093,-20.9741263516699,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_406">
+<name>kml_406</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5396431110264,-20.9734299634494,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_407">
+<name>kml_407</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5359635081592,-20.975445862733,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_408">
+<name>kml_408</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.53614062971,-20.9753674313304,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_409">
+<name>kml_409</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5273003390666,-20.9765299692215,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_410">
+<name>kml_410</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5300641626702,-20.9783039895676,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_411">
+<name>kml_411</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5292404023418,-20.9764770430977,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_412">
+<name>kml_412</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5314615290751,-20.9781760792582,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_413">
+<name>kml_413</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5305452722782,-20.9773254994041,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_414">
+<name>kml_414</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5219756197161,-20.9732747845323,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_415">
+<name>kml_415</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5287416153444,-20.9751518772376,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_416">
+<name>kml_416</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5296910664494,-20.9730642417142,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_417">
+<name>kml_417</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5282221889285,-20.9738545826313,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_418">
+<name>kml_418</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5280182786137,-20.9732998377774,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_419">
+<name>kml_419</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5285265460572,-20.9733057690509,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_420">
+<name>kml_420</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5263701561664,-20.9761944735313,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_421">
+<name>kml_421</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5273811030018,-20.9746077042077,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_422">
+<name>kml_422</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5227792637932,-20.9746769953332,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_423">
+<name>kml_423</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5253750222933,-20.9728918823782,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_424">
+<name>kml_424</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5240853710083,-20.9654228310938,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_425">
+<name>kml_425</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5252208815762,-20.9646100710383,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_426">
+<name>kml_426</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5275251463317,-20.9648186047838,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_427">
+<name>kml_427</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5277918289015,-20.9643616146357,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_428">
+<name>kml_428</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5272553233486,-20.9629827170235,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_429">
+<name>kml_429</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5261965769491,-20.9628005763688,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_430">
+<name>kml_430</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5254673753872,-20.9630790184106,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_431">
+<name>kml_431</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5241334979101,-20.9616193667311,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_432">
+<name>kml_432</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5254177947269,-20.9616468711835,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_433">
+<name>kml_433</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.524055299763,-20.95985930891,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_434">
+<name>kml_434</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5231759048117,-20.9673174261236,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_435">
+<name>kml_435</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5216255938711,-20.9671191685252,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_436">
+<name>kml_436</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5308743711957,-20.9583712394975,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_437">
+<name>kml_437</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5283172292277,-20.9571253161207,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_438">
+<name>kml_438</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5258317711249,-20.9576305638719,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_439">
+<name>kml_439</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5244513689983,-20.9571951669498,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_440">
+<name>kml_440</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5249998828573,-20.9546295793663,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_441">
+<name>kml_441</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5256108082492,-20.9538429605063,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_442">
+<name>kml_442</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5357848130683,-20.9642290041186,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_443">
+<name>kml_443</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5355444783367,-20.9636197437635,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_444">
+<name>kml_444</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5351064174466,-20.9634964761086,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_445">
+<name>kml_445</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5342580655547,-20.963696212277,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_446">
+<name>kml_446</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5359273745504,-20.9619827378008,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_447">
+<name>kml_447</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5319321418695,-20.9574577056789,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_448">
+<name>kml_448</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5344561984909,-20.9536413819195,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_449">
+<name>kml_449</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5361092863939,-20.9524996748097,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_450">
+<name>kml_450</name>
+<Style>
+<LineStyle>
+<color>ffffff00</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.532074147226,-20.9527521850332,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_451">
+<name>kml_451</name>
+<Point>
+<coordinates>-42.5353933944632,-20.9775507675668,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_452">
+<name>kml_452</name>
+<Point>
+<coordinates>-42.5357771176281,-20.9776014676585,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_453">
+<name>kml_453</name>
+<Point>
+<coordinates>-42.5366735229954,-20.9768740239674,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_454">
+<name>kml_454</name>
+<Point>
+<coordinates>-42.5376685502686,-20.9759945004296,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_455">
+<name>kml_455</name>
+<Point>
+<coordinates>-42.5375084162369,-20.9752066249165,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_456">
+<name>kml_456</name>
+<Point>
+<coordinates>-42.5386770700093,-20.9741263516699,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_457">
+<name>kml_457</name>
+<Point>
+<coordinates>-42.538966772058,-20.973589674763,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_458">
+<name>kml_458</name>
+<Point>
+<coordinates>-42.5396431110264,-20.9734299634494,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_459">
+<name>kml_459</name>
+<Point>
+<coordinates>-42.5355311125892,-20.9754322924638,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_460">
+<name>kml_460</name>
+<Point>
+<coordinates>-42.5359635081592,-20.975445862733,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_461">
+<name>kml_461</name>
+<Point>
+<coordinates>-42.5364182048241,-20.9753306337679,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_462">
+<name>kml_462</name>
+<Point>
+<coordinates>-42.53614062971,-20.9753674313304,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_463">
+<name>kml_463</name>
+<Point>
+<coordinates>-42.5273003390666,-20.9765299692215,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_464">
+<name>kml_464</name>
+<Point>
+<coordinates>-42.526949147769,-20.9765825674208,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_465">
+<name>kml_465</name>
+<Point>
+<coordinates>-42.5317664125144,-20.9784026217088,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_466">
+<name>kml_466</name>
+<Point>
+<coordinates>-42.5300641626702,-20.9783039895676,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_467">
+<name>kml_467</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5277810297098,-20.976588234805,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_468">
+<name>kml_468</name>
+<Point>
+<coordinates>-42.5294346655845,-20.9767887566504,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_469">
+<name>kml_469</name>
+<Point>
+<coordinates>-42.5292404023418,-20.9764770430977,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_470">
+<name>kml_470</name>
+<Point>
+<coordinates>-42.5314615290751,-20.9781760792582,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_471">
+<name>kml_471</name>
+<Point>
+<coordinates>-42.5306366105972,-20.9774186527723,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_472">
+<name>kml_472</name>
+<Point>
+<coordinates>-42.5305452722782,-20.9773254994041,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_473">
+<name>kml_473</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5300976580256,-20.9768690735855,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_474">
+<name>kml_474</name>
+<Point>
+<coordinates>-42.5214760662732,-20.9738363646913,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_475">
+<name>kml_475</name>
+<Point>
+<coordinates>-42.5219756197161,-20.9732747845323,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_476">
+<name>kml_476</name>
+<Point>
+<coordinates>-42.5292072657077,-20.9760426101225,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_477">
+<name>kml_477</name>
+<Point>
+<coordinates>-42.5301190297668,-20.9755691514921,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_478">
+<name>kml_478</name>
+<Point>
+<coordinates>-42.5287416153444,-20.9751518772376,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_479">
+<name>kml_479</name>
+<Point>
+<coordinates>-42.5280366505055,-20.9740004231965,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_480">
+<name>kml_480</name>
+<Point>
+<coordinates>-42.5300489575626,-20.9751591039113,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_481">
+<name>kml_481</name>
+<Point>
+<coordinates>-42.5296910664494,-20.9730642417142,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_482">
+<name>kml_482</name>
+<Point>
+<coordinates>-42.5282221889285,-20.9738545826313,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_483">
+<name>kml_483</name>
+<Point>
+<coordinates>-42.5280991887999,-20.9735123898655,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_484">
+<name>kml_484</name>
+<Point>
+<coordinates>-42.5280182786137,-20.9732998377774,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_485">
+<name>kml_485</name>
+<Point>
+<coordinates>-42.5285265460572,-20.9733057690509,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_486">
+<name>kml_486</name>
+<Point>
+<coordinates>-42.5263701561664,-20.9761944735313,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_487">
+<name>kml_487</name>
+<Point>
+<coordinates>-42.5273811030018,-20.9746077042077,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_488">
+<name>kml_488</name>
+<Point>
+<coordinates>-42.5227792637932,-20.9746769953332,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_489">
+<name>kml_489</name>
+<Point>
+<coordinates>-42.5253750222933,-20.9728918823782,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_490">
+<name>kml_490</name>
+<Point>
+<coordinates>-42.525966076683,-20.9732471062072,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_491">
+<name>kml_491</name>
+<Point>
+<coordinates>-42.5282820776306,-20.964508592588,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_492">
+<name>kml_492</name>
+<Point>
+<coordinates>-42.5292344614814,-20.9638813190981,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_493">
+<name>kml_493</name>
+<Point>
+<coordinates>-42.5256758012846,-20.9663308148732,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_494">
+<name>kml_494</name>
+<Point>
+<coordinates>-42.5244741116876,-20.9651666281684,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_495">
+<name>kml_495</name>
+<Point>
+<coordinates>-42.5240853710083,-20.9654228310938,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_496">
+<name>kml_496</name>
+<Point>
+<coordinates>-42.5252208815762,-20.9646100710383,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_497">
+<name>kml_497</name>
+<Point>
+<coordinates>-42.527534971398,-20.9648407790627,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_498">
+<name>kml_498</name>
+<Point>
+<coordinates>-42.5275251463317,-20.9648186047838,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_499">
+<name>kml_499</name>
+<Point>
+<coordinates>-42.5274407710403,-20.964507220947,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_500">
+<name>kml_500</name>
+<Point>
+<coordinates>-42.5277918289015,-20.9643616146357,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_501">
+<name>kml_501</name>
+<Point>
+<coordinates>-42.5268328253431,-20.9633223202434,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_502">
+<name>kml_502</name>
+<Point>
+<coordinates>-42.526933590397,-20.9632216604671,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_503">
+<name>kml_503</name>
+<Point>
+<coordinates>-42.5269403241864,-20.9632155279273,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_504">
+<name>kml_504</name>
+<Point>
+<coordinates>-42.5272553233486,-20.9629827170235,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_505">
+<name>kml_505</name>
+<Point>
+<coordinates>-42.5271335012204,-20.9630603173748,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_506">
+<name>kml_506</name>
+<Point>
+<coordinates>-42.5270563283783,-20.9631176174744,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_507">
+<name>kml_507</name>
+<Point>
+<coordinates>-42.5261965769491,-20.9628005763688,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_508">
+<name>kml_508</name>
+<Point>
+<coordinates>-42.5261588832699,-20.9628129411314,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_509">
+<name>kml_509</name>
+<Point>
+<coordinates>-42.5263721525997,-20.9626167588952,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_510">
+<name>kml_510</name>
+<Point>
+<coordinates>-42.5262205797931,-20.9627614664524,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_511">
+<name>kml_511</name>
+<Point>
+<coordinates>-42.5265393566004,-20.9624684857396,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_512">
+<name>kml_512</name>
+<Point>
+<coordinates>-42.5267858222895,-20.962299511746,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_513">
+<name>kml_513</name>
+<Point>
+<coordinates>-42.5254673753872,-20.9630790184106,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_514">
+<name>kml_514</name>
+<Point>
+<coordinates>-42.5249862648352,-20.9621263842682,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_515">
+<name>kml_515</name>
+<Point>
+<coordinates>-42.5241334979101,-20.9616193667311,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_516">
+<name>kml_516</name>
+<Point>
+<coordinates>-42.5253536630925,-20.9616827796986,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_517">
+<name>kml_517</name>
+<Point>
+<coordinates>-42.5254177947269,-20.9616468711835,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_518">
+<name>kml_518</name>
+<Point>
+<coordinates>-42.5247589594016,-20.9609271418359,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_519">
+<name>kml_519</name>
+<Point>
+<coordinates>-42.5246748203785,-20.9609813599993,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_520">
+<name>kml_520</name>
+<Point>
+<coordinates>-42.524055299763,-20.95985930891,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_521">
+<name>kml_521</name>
+<Point>
+<coordinates>-42.5232940846103,-20.9679395517035,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_522">
+<name>kml_522</name>
+<Point>
+<coordinates>-42.5231759048117,-20.9673174261236,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_523">
+<name>kml_523</name>
+<Point>
+<coordinates>-42.5216255938711,-20.9671191685252,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_524">
+<name>kml_524</name>
+<Point>
+<coordinates>-42.5221352124576,-20.9663536685454,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_525">
+<name>kml_525</name>
+<Point>
+<coordinates>-42.5218913410728,-20.9662421303717,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_526">
+<name>kml_526</name>
+<Point>
+<coordinates>-42.5217497591299,-20.9654130722553,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_527">
+<name>kml_527</name>
+<Point>
+<coordinates>-42.5221478720373,-20.9655857252295,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_528">
+<name>kml_528</name>
+<Point>
+<coordinates>-42.5233128204903,-20.9606177315442,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_529">
+<name>kml_529</name>
+<Point>
+<coordinates>-42.5308743711957,-20.9583712394975,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_530">
+<name>kml_530</name>
+<Point>
+<coordinates>-42.5283881355799,-20.9572443586511,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_531">
+<name>kml_531</name>
+<Point>
+<coordinates>-42.5283172292277,-20.9571253161207,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_532">
+<name>kml_532</name>
+<Point>
+<coordinates>-42.5258317711249,-20.9576305638719,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_533">
+<name>kml_533</name>
+<Point>
+<coordinates>-42.5268431609194,-20.9574110213968,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_534">
+<name>kml_534</name>
+<Point>
+<coordinates>-42.5276488372203,-20.9573612208588,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_535">
+<name>kml_535</name>
+<Point>
+<coordinates>-42.5244513689983,-20.9571951669498,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_536">
+<name>kml_536</name>
+<Point>
+<coordinates>-42.5249154878827,-20.9552019001566,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_537">
+<name>kml_537</name>
+<Point>
+<coordinates>-42.5249998828573,-20.9546295793663,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_538">
+<name>kml_538</name>
+<Point>
+<coordinates>-42.5256108082492,-20.9538429605063,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_539">
+<name>kml_539</name>
+<Point>
+<coordinates>-42.5251369201003,-20.9534867337254,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_540">
+<name>kml_540</name>
+<Point>
+<coordinates>-42.5357848130683,-20.9642290041186,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_541">
+<name>kml_541</name>
+<Point>
+<coordinates>-42.5360655172105,-20.9637654294595,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_542">
+<name>kml_542</name>
+<Point>
+<coordinates>-42.5355444783367,-20.9636197437635,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_543">
+<name>kml_543</name>
+<Point>
+<coordinates>-42.5351064174466,-20.9634964761086,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_544">
+<name>kml_544</name>
+<Point>
+<coordinates>-42.5342580655547,-20.963696212277,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_545">
+<name>kml_545</name>
+<Point>
+<coordinates>-42.5359273745504,-20.9619827378008,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_546">
+<name>kml_546</name>
+<Point>
+<coordinates>-42.5323747187295,-20.9617326799843,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_547">
+<name>kml_547</name>
+<Point>
+<coordinates>-42.5325935392099,-20.9618712898804,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_548">
+<name>kml_548</name>
+<Point>
+<coordinates>-42.5322969657396,-20.9611988186265,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_549">
+<name>kml_549</name>
+<Point>
+<coordinates>-42.5322235099258,-20.9604031664924,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_550">
+<name>kml_550</name>
+<Point>
+<coordinates>-42.5322028275964,-20.9599062492265,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_551">
+<name>kml_551</name>
+<Point>
+<coordinates>-42.534133774082,-20.9605662606678,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_552">
+<name>kml_552</name>
+<Point>
+<coordinates>-42.538376165652,-20.9638962553754,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_553">
+<name>kml_553</name>
+<Point>
+<coordinates>-42.5378117937224,-20.9637255708711,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_554">
+<name>kml_554</name>
+<Point>
+<coordinates>-42.5364175053959,-20.9631636509971,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_555">
+<name>kml_555</name>
+<Point>
+<coordinates>-42.536738526912,-20.9576513064492,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_556">
+<name>kml_556</name>
+<Point>
+<coordinates>-42.5354269228662,-20.9590860826904,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_557">
+<name>kml_557</name>
+<Point>
+<coordinates>-42.5319421587299,-20.9575443525309,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_558">
+<name>kml_558</name>
+<Point>
+<coordinates>-42.5319321418695,-20.9574577056789,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_559">
+<name>kml_559</name>
+<Point>
+<coordinates>-42.5354188413412,-20.9543003663149,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_560">
+<name>kml_560</name>
+<Point>
+<coordinates>-42.5351683929239,-20.9537459493393,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_561">
+<name>kml_561</name>
+<Point>
+<coordinates>-42.5344561984909,-20.9536413819195,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_562">
+<name>kml_562</name>
+<Point>
+<coordinates>-42.5394138447596,-20.9545296441977,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_563">
+<name>kml_563</name>
+<Point>
+<coordinates>-42.5361092863939,-20.9524996748097,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_564">
+<name>kml_564</name>
+<Point>
+<coordinates>-42.5349759022262,-20.9531743114081,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_565">
+<name>kml_565</name>
+<Point>
+<coordinates>-42.5347921350556,-20.9526569761119,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_566">
+<name>kml_566</name>
+<Point>
+<coordinates>-42.5349771438603,-20.9522128752077,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_567">
+<name>kml_567</name>
+<Point>
+<coordinates>-42.532074147226,-20.9527521850332,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_568">
+<name>kml_568</name>
+<Point>
+<coordinates>-42.5353933944632,-20.9775507675668,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_569">
+<name>kml_569</name>
+<Point>
+<coordinates>-42.5375084162369,-20.9752066249165,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_570">
+<name>kml_570</name>
+<Point>
+<coordinates>-42.5386770700093,-20.9741263516699,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_571">
+<name>kml_571</name>
+<Point>
+<coordinates>-42.5396431110264,-20.9734299634494,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_572">
+<name>kml_572</name>
+<Point>
+<coordinates>-42.5359635081592,-20.975445862733,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_573">
+<name>kml_573</name>
+<Point>
+<coordinates>-42.53614062971,-20.9753674313304,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_574">
+<name>kml_574</name>
+<Point>
+<coordinates>-42.5273003390666,-20.9765299692215,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_575">
+<name>kml_575</name>
+<Point>
+<coordinates>-42.5300641626702,-20.9783039895676,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_576">
+<name>kml_576</name>
+<Point>
+<coordinates>-42.5292404023418,-20.9764770430977,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_577">
+<name>kml_577</name>
+<Point>
+<coordinates>-42.5314615290751,-20.9781760792582,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_578">
+<name>kml_578</name>
+<Point>
+<coordinates>-42.5305452722782,-20.9773254994041,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_579">
+<name>kml_579</name>
+<Point>
+<coordinates>-42.5219756197161,-20.9732747845323,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_580">
+<name>kml_580</name>
+<Point>
+<coordinates>-42.5287416153444,-20.9751518772376,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_581">
+<name>kml_581</name>
+<Point>
+<coordinates>-42.5296910664494,-20.9730642417142,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_582">
+<name>kml_582</name>
+<Point>
+<coordinates>-42.5282221889285,-20.9738545826313,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_583">
+<name>kml_583</name>
+<Point>
+<coordinates>-42.5280182786137,-20.9732998377774,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_584">
+<name>kml_584</name>
+<Point>
+<coordinates>-42.5285265460572,-20.9733057690509,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_585">
+<name>kml_585</name>
+<Point>
+<coordinates>-42.5263701561664,-20.9761944735313,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_586">
+<name>kml_586</name>
+<Point>
+<coordinates>-42.5273811030018,-20.9746077042077,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_587">
+<name>kml_587</name>
+<Point>
+<coordinates>-42.5227792637932,-20.9746769953332,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_588">
+<name>kml_588</name>
+<Point>
+<coordinates>-42.5253750222933,-20.9728918823782,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_589">
+<name>kml_589</name>
+<Point>
+<coordinates>-42.5240853710083,-20.9654228310938,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_590">
+<name>kml_590</name>
+<Point>
+<coordinates>-42.5252208815762,-20.9646100710383,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_591">
+<name>kml_591</name>
+<Point>
+<coordinates>-42.5275251463317,-20.9648186047838,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_592">
+<name>kml_592</name>
+<Point>
+<coordinates>-42.5277918289015,-20.9643616146357,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_593">
+<name>kml_593</name>
+<Point>
+<coordinates>-42.5272553233486,-20.9629827170235,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_594">
+<name>kml_594</name>
+<Point>
+<coordinates>-42.5261965769491,-20.9628005763688,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_595">
+<name>kml_595</name>
+<Point>
+<coordinates>-42.5254673753872,-20.9630790184106,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_596">
+<name>kml_596</name>
+<Point>
+<coordinates>-42.5241334979101,-20.9616193667311,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_597">
+<name>kml_597</name>
+<Point>
+<coordinates>-42.5254177947269,-20.9616468711835,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_598">
+<name>kml_598</name>
+<Point>
+<coordinates>-42.524055299763,-20.95985930891,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_599">
+<name>kml_599</name>
+<Point>
+<coordinates>-42.5231759048117,-20.9673174261236,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_600">
+<name>kml_600</name>
+<Point>
+<coordinates>-42.5216255938711,-20.9671191685252,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_601">
+<name>kml_601</name>
+<Point>
+<coordinates>-42.5308743711957,-20.9583712394975,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_602">
+<name>kml_602</name>
+<Point>
+<coordinates>-42.5283172292277,-20.9571253161207,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_603">
+<name>kml_603</name>
+<Point>
+<coordinates>-42.5258317711249,-20.9576305638719,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_604">
+<name>kml_604</name>
+<Point>
+<coordinates>-42.5244513689983,-20.9571951669498,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_605">
+<name>kml_605</name>
+<Point>
+<coordinates>-42.5249998828573,-20.9546295793663,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_606">
+<name>kml_606</name>
+<Point>
+<coordinates>-42.5256108082492,-20.9538429605063,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_607">
+<name>kml_607</name>
+<Point>
+<coordinates>-42.5357848130683,-20.9642290041186,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_608">
+<name>kml_608</name>
+<Point>
+<coordinates>-42.5355444783367,-20.9636197437635,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_609">
+<name>kml_609</name>
+<Point>
+<coordinates>-42.5351064174466,-20.9634964761086,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_610">
+<name>kml_610</name>
+<Point>
+<coordinates>-42.5342580655547,-20.963696212277,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_611">
+<name>kml_611</name>
+<Point>
+<coordinates>-42.5359273745504,-20.9619827378008,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_612">
+<name>kml_612</name>
+<Point>
+<coordinates>-42.5319321418695,-20.9574577056789,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_613">
+<name>kml_613</name>
+<Point>
+<coordinates>-42.5344561984909,-20.9536413819195,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_614">
+<name>kml_614</name>
+<Point>
+<coordinates>-42.5361092863939,-20.9524996748097,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_615">
+<name>kml_615</name>
+<Point>
+<coordinates>-42.532074147226,-20.9527521850332,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_616">
+<name>kml_616</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5357771176281,-20.9776014676585,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_617">
+<name>kml_617</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5376685502686,-20.9759945004296,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_618">
+<name>kml_618</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5376685502686,-20.9759945004296,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_619">
+<name>kml_619</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5364182048241,-20.9753306337679,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_620">
+<name>kml_620</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5364182048241,-20.9753306337679,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_621">
+<name>kml_621</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5294346655845,-20.9767887566504,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_622">
+<name>kml_622</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5300976580256,-20.9768690735855,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_623">
+<name>kml_623</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5292072657077,-20.9760426101225,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_624">
+<name>kml_624</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5280366505055,-20.9740004231965,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_625">
+<name>kml_625</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5280366505055,-20.9740004231965,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_626">
+<name>kml_626</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5256758012846,-20.9663308148732,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_627">
+<name>kml_627</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5256758012846,-20.9663308148732,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_628">
+<name>kml_628</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5244741116876,-20.9651666281684,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_629">
+<name>kml_629</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5323747187295,-20.9617326799843,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_630">
+<name>kml_630</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5364175053959,-20.9631636509971,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_631">
+<name>kml_631</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5364175053959,-20.9631636509971,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_632">
+<name>kml_632</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.536738526912,-20.9576513064492,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_633">
+<name>kml_633</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5319421587299,-20.9575443525309,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_634">
+<name>kml_634</name>
+<Style>
+<LineStyle>
+<color>ff0000ff</color>
+</LineStyle>
+</Style>
+<Point>
+<coordinates>-42.5347921350556,-20.9526569761119,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_635">
+<name>kml_635</name>
+<LineString>
+<coordinates>-42.5357771176281,-20.9776014676585,0 -42.5357626322572,-20.9775995424612,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_636">
+<name>kml_636</name>
+<LineString>
+<coordinates>-42.5376685502686,-20.9759945004296,0 -42.5376751926805,-20.9759822261511,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_637">
+<name>kml_637</name>
+<LineString>
+<coordinates>-42.5376685502686,-20.9759945004296,0 -42.5376657911613,-20.9759810066902,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_638">
+<name>kml_638</name>
+<LineString>
+<coordinates>-42.5364182048241,-20.9753306337679,0 -42.5364040138148,-20.9753342208481,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_639">
+<name>kml_639</name>
+<LineString>
+<coordinates>-42.5364182048241,-20.9753306337679,0 -42.536403656002,-20.9753325903763,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_640">
+<name>kml_640</name>
+<LineString>
+<coordinates>-42.5294346655845,-20.9767887566504,0 -42.5294272655007,-20.9767769110954,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_641">
+<name>kml_641</name>
+<LineString>
+<coordinates>-42.5300976580256,-20.9768690735855,0 -42.5300831698831,-20.9768673284633,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_642">
+<name>kml_642</name>
+<LineString>
+<coordinates>-42.5292072657077,-20.9760426101225,0 -42.5292008357258,-20.9760302368727,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_643">
+<name>kml_643</name>
+<LineString>
+<coordinates>-42.5280366505055,-20.9740004231965,0 -42.5280262045166,-20.9740101136102,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_644">
+<name>kml_644</name>
+<LineString>
+<coordinates>-42.5280366505055,-20.9740004231965,0 -42.5280229850528,-20.973995439287,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_645">
+<name>kml_645</name>
+<LineString>
+<coordinates>-42.5256758012846,-20.9663308148732,0 -42.5256875685543,-20.9663225884538,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_646">
+<name>kml_646</name>
+<LineString>
+<coordinates>-42.5256758012846,-20.9663308148732,0 -42.5256655821136,-20.9663209147314,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_647">
+<name>kml_647</name>
+<LineString>
+<coordinates>-42.5244741116876,-20.9651666281684,0 -42.5244621581908,-20.965174490626,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_648">
+<name>kml_648</name>
+<LineString>
+<coordinates>-42.5323747187295,-20.9617326799843,0 -42.5323868972625,-20.9617403507588,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_649">
+<name>kml_649</name>
+<LineString>
+<coordinates>-42.5364175053959,-20.9631636509971,0 -42.5364121397928,-20.963150841919,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_650">
+<name>kml_650</name>
+<LineString>
+<coordinates>-42.5364175053959,-20.9631636509971,0 -42.5364104821029,-20.963175739185,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_651">
+<name>kml_651</name>
+<LineString>
+<coordinates>-42.536738526912,-20.9576513064492,0 -42.5367334512131,-20.9576384112845,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_652">
+<name>kml_652</name>
+<LineString>
+<coordinates>-42.5319421587299,-20.9575443525309,0 -42.5319308641205,-20.9575531280872,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_653">
+<name>kml_653</name>
+<LineString>
+<coordinates>-42.5347921350556,-20.9526569761119,0 -42.5347775160299,-20.9526574870444,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_654">
+<name>kml_654</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5357771176281,-20.9776014676585,0 -42.5357626322572,-20.9775995424612,0 -42.5353933944632,-20.9775507675668,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_655">
+<name>kml_655</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5345290545848,-20.9786669324558,0 -42.5357771176281,-20.9776014676585,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_656">
+<name>kml_656</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5366735229954,-20.9768740239674,0 -42.5376685502686,-20.9759945004296,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_657">
+<name>kml_657</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5357771176281,-20.9776014676585,0 -42.5366735229954,-20.9768740239674,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_658">
+<name>kml_658</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5376685502686,-20.9759945004296,0 -42.5376657911613,-20.9759810066902,0 -42.5375084162369,-20.9752066249165,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_659">
+<name>kml_659</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5376685502686,-20.9759945004296,0 -42.5376751926805,-20.9759822261511,0 -42.5386770700093,-20.9741263516699,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_660">
+<name>kml_660</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5386770700093,-20.9741263516699,0 -42.538966772058,-20.973589674763,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_661">
+<name>kml_661</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.538966772058,-20.973589674763,0 -42.5396431110264,-20.9734299634494,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_662">
+<name>kml_662</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5364182048241,-20.9753306337679,0 -42.536403656002,-20.9753325903763,0 -42.53614062971,-20.9753674313304,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_663">
+<name>kml_663</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5364182048241,-20.9753306337679,0 -42.5364040138148,-20.9753342208481,0 -42.5359635081592,-20.975445862733,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_664">
+<name>kml_664</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5359635081592,-20.975445862733,0 -42.5355311125892,-20.9754322924638,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_665">
+<name>kml_665</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5366735229954,-20.9768740239674,0 -42.5364182048241,-20.9753306337679,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_666">
+<name>kml_666</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5277810297098,-20.976588234805,0 -42.5273003390666,-20.9765299692215,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_667">
+<name>kml_667</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5273003390666,-20.9765299692215,0 -42.526949147769,-20.9765825674208,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_668">
+<name>kml_668</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.526949147769,-20.9765825674208,0 -42.5263701561664,-20.9761944735313,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_669">
+<name>kml_669</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5314615290751,-20.9781760792582,0 -42.5317664125144,-20.9784026217088,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_670">
+<name>kml_670</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5300641626702,-20.9783039895676,0 -42.5298900483049,-20.978573338894,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_671">
+<name>kml_671</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5294346655845,-20.9767887566504,0 -42.5294272655007,-20.9767769110954,0 -42.5292404023418,-20.9764770430977,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_672">
+<name>kml_672</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5300976580256,-20.9768690735855,0 -42.5292072657077,-20.9760426101225,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_673">
+<name>kml_673</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5300976580256,-20.9768690735855,0 -42.5300831698831,-20.9768673284633,0 -42.5294346655845,-20.9767887566504,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_674">
+<name>kml_674</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5294346655845,-20.9767887566504,0 -42.5277810297098,-20.976588234805,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_675">
+<name>kml_675</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5306366105972,-20.9774186527723,0 -42.5305452722782,-20.9773254994041,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_676">
+<name>kml_676</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5305452722782,-20.9773254994041,0 -42.5300976580256,-20.9768690735855,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_677">
+<name>kml_677</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5306366105972,-20.9774186527723,0 -42.5314615290751,-20.9781760792582,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_678">
+<name>kml_678</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5300976580256,-20.9768690735855,0 -42.5301190297668,-20.9755691514921,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_679">
+<name>kml_679</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5306366105972,-20.9774186527723,0 -42.5300641626702,-20.9783039895676,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_680">
+<name>kml_680</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5214760662732,-20.9738363646913,0 -42.5227792637932,-20.9746769953332,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_681">
+<name>kml_681</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5301190297668,-20.9755691514921,0 -42.5300489575626,-20.9751591039113,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_682">
+<name>kml_682</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5280366505055,-20.9740004231965,0 -42.5282221889285,-20.9738545826313,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_683">
+<name>kml_683</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5292072657077,-20.9760426101225,0 -42.5292008357258,-20.9760302368727,0 -42.5287416153444,-20.9751518772376,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_684">
+<name>kml_684</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5292072657077,-20.9760426101225,0 -42.5280366505055,-20.9740004231965,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_685">
+<name>kml_685</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5280991887999,-20.9735123898655,0 -42.5280182786137,-20.9732998377774,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_686">
+<name>kml_686</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5282221889285,-20.9738545826313,0 -42.5280991887999,-20.9735123898655,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_687">
+<name>kml_687</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5280991887999,-20.9735123898655,0 -42.5285265460572,-20.9733057690509,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_688">
+<name>kml_688</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5300489575626,-20.9751591039113,0 -42.5296910664494,-20.9730642417142,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_689">
+<name>kml_689</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.525966076683,-20.9732471062072,0 -42.5253750222933,-20.9728918823782,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_690">
+<name>kml_690</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5280366505055,-20.9740004231965,0 -42.5280262045166,-20.9740101136102,0 -42.5273811030018,-20.9746077042077,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_691">
+<name>kml_691</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5280366505055,-20.9740004231965,0 -42.5280229850528,-20.973995439287,0 -42.525966076683,-20.9732471062072,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_692">
+<name>kml_692</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5282820776306,-20.964508592588,0 -42.5292344614814,-20.9638813190981,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_693">
+<name>kml_693</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5244741116876,-20.9651666281684,0 -42.5244621581908,-20.965174490626,0 -42.5240853710083,-20.9654228310938,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_694">
+<name>kml_694</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5274407710403,-20.964507220947,0 -42.5277918289015,-20.9643616146357,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_695">
+<name>kml_695</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.527534971398,-20.9648407790627,0 -42.5274407710403,-20.964507220947,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_696">
+<name>kml_696</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5256758012846,-20.9663308148732,0 -42.5252208815762,-20.9646100710383,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_697">
+<name>kml_697</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5256758012846,-20.9663308148732,0 -42.5256655821136,-20.9663209147314,0 -42.5244843307019,-20.9651765283673,0 -42.5244741116876,-20.9651666281684,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_698">
+<name>kml_698</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5232940846103,-20.9679395517035,0 -42.5256758012846,-20.9663308148732,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_699">
+<name>kml_699</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5261588832699,-20.9628129411314,0 -42.5254673753872,-20.9630790184106,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_700">
+<name>kml_700</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5265393566004,-20.9624684857396,0 -42.5254177947269,-20.9616468711835,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_701">
+<name>kml_701</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.526933590397,-20.9632216604671,0 -42.5262331350357,-20.9627695945858,0 -42.5262205797931,-20.9627614664524,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_702">
+<name>kml_702</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5269403241864,-20.9632155279273,0 -42.5261965769491,-20.9628005763688,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_703">
+<name>kml_703</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5268328253431,-20.9633223202434,0 -42.5261588832699,-20.9628129411314,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_704">
+<name>kml_704</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5271335012204,-20.9630603173748,0 -42.5265393566004,-20.9624684857396,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_705">
+<name>kml_705</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5270563283783,-20.9631176174744,0 -42.5263721525997,-20.9626167588952,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_706">
+<name>kml_706</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5253536630925,-20.9616827796986,0 -42.5263721525997,-20.9626167588952,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_707">
+<name>kml_707</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5272553233486,-20.9629827170235,0 -42.5267858222895,-20.962299511746,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_708">
+<name>kml_708</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5249862648352,-20.9621263842682,0 -42.5241334979101,-20.9616193667311,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_709">
+<name>kml_709</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5246748203785,-20.9609813599993,0 -42.524055299763,-20.95985930891,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_710">
+<name>kml_710</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5262205797931,-20.9627614664524,0 -42.5249862648352,-20.9621263842682,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_711">
+<name>kml_711</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5241334979101,-20.9616193667311,0 -42.5233128204903,-20.9606177315442,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_712">
+<name>kml_712</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5254177947269,-20.9616468711835,0 -42.5247589594016,-20.9609271418359,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_713">
+<name>kml_713</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5253536630925,-20.9616827796986,0 -42.5246748203785,-20.9609813599993,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_714">
+<name>kml_714</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5282820776306,-20.964508592588,0 -42.526933590397,-20.9632216604671,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_715">
+<name>kml_715</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5282820776306,-20.964508592588,0 -42.5269403241864,-20.9632155279273,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_716">
+<name>kml_716</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5282820776306,-20.964508592588,0 -42.5268328253431,-20.9633223202434,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_717">
+<name>kml_717</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5282820776306,-20.964508592588,0 -42.5271335012204,-20.9630603173748,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_718">
+<name>kml_718</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5282820776306,-20.964508592588,0 -42.5270563283783,-20.9631176174744,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_719">
+<name>kml_719</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5282820776306,-20.964508592588,0 -42.5272553233486,-20.9629827170235,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_720">
+<name>kml_720</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5282820776306,-20.964508592588,0 -42.5275251463317,-20.9648186047838,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_721">
+<name>kml_721</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5282820776306,-20.964508592588,0 -42.527534971398,-20.9648407790627,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_722">
+<name>kml_722</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5292344614814,-20.9638813190981,0 -42.5323747187295,-20.9617326799843,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_723">
+<name>kml_723</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5256758012846,-20.9663308148732,0 -42.5256875685543,-20.9663225884538,0 -42.5282820776306,-20.964508592588,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_724">
+<name>kml_724</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5232940846103,-20.9679395517035,0 -42.5231759048117,-20.9673174261236,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_725">
+<name>kml_725</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5216255938711,-20.9671191685252,0 -42.5218913410728,-20.9662421303717,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_726">
+<name>kml_726</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5216255938711,-20.9671191685252,0 -42.5221352124576,-20.9663536685454,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_727">
+<name>kml_727</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5218913410728,-20.9662421303717,0 -42.5217497591299,-20.9654130722553,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_728">
+<name>kml_728</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5221352124576,-20.9663536685454,0 -42.5221478720373,-20.9655857252295,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_729">
+<name>kml_729</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5319421587299,-20.9575443525309,0 -42.5319308641205,-20.9575531280872,0 -42.5308743711957,-20.9583712394975,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_730">
+<name>kml_730</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5283172292277,-20.9571253161207,0 -42.5283243371498,-20.9571373380076,0 -42.5283881355799,-20.9572443586511,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_731">
+<name>kml_731</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5283172292277,-20.9571253161207,0 -42.5282980618384,-20.9571276566671,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_732">
+<name>kml_732</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5282980618384,-20.9571276566671,0 -42.5283662605227,-20.9572301361406,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_733">
+<name>kml_733</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5319421587299,-20.9575443525309,0 -42.5283172292277,-20.9571253161207,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_734">
+<name>kml_734</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5268431609194,-20.9574110213968,0 -42.5258317711249,-20.9576305638719,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_735">
+<name>kml_735</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5276488372203,-20.9573612208588,0 -42.5268431609194,-20.9574110213968,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_736">
+<name>kml_736</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5249154878827,-20.9552019001566,0 -42.5249998828573,-20.9546295793663,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_737">
+<name>kml_737</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5268431609194,-20.9574110213968,0 -42.5244513689983,-20.9571951669498,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_738">
+<name>kml_738</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5244513689983,-20.9571951669498,0 -42.5249154878827,-20.9552019001566,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_739">
+<name>kml_739</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5249998828573,-20.9546295793663,0 -42.5256108082492,-20.9538429605063,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_740">
+<name>kml_740</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5256108082492,-20.9538429605063,0 -42.5251369201003,-20.9534867337254,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_741">
+<name>kml_741</name>
+<Style>
+<LineStyle>
+<color>ffff0000</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5283662605227,-20.9572301361406,0 -42.5276540367598,-20.957343147207,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_742">
+<name>kml_742</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5283881355799,-20.9572443586511,0 -42.5276488372203,-20.9573612208588,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_743">
+<name>kml_743</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.538376165652,-20.9638962553754,0 -42.540295466061,-20.9646914766836,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_744">
+<name>kml_744</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5360655172105,-20.9637654294595,0 -42.5357848130683,-20.9642290041186,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_745">
+<name>kml_745</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5364175053959,-20.9631636509971,0 -42.5364104821029,-20.963175739185,0 -42.5360655172105,-20.9637654294595,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_746">
+<name>kml_746</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5360655172105,-20.9637654294595,0 -42.5355444783367,-20.9636197437635,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_747">
+<name>kml_747</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5351064174466,-20.9634964761086,0 -42.5342580655547,-20.963696212277,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_748">
+<name>kml_748</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5364175053959,-20.9631636509971,0 -42.5364121397928,-20.963150841919,0 -42.5359273745504,-20.9619827378008,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_749">
+<name>kml_749</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5355444783367,-20.9636197437635,0 -42.5351064174466,-20.9634964761086,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_750">
+<name>kml_750</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5323747187295,-20.9617326799843,0 -42.5323868972625,-20.9617403507588,0 -42.5325935392099,-20.9618712898804,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_751">
+<name>kml_751</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5322969657396,-20.9611988186265,0 -42.5322235099258,-20.9604031664924,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_752">
+<name>kml_752</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5322235099258,-20.9604031664924,0 -42.5322028275964,-20.9599062492265,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_753">
+<name>kml_753</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.534133774082,-20.9605662606678,0 -42.5354269228662,-20.9590860826904,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_754">
+<name>kml_754</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5323747187295,-20.9617326799843,0 -42.5322969657396,-20.9611988186265,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_755">
+<name>kml_755</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5325935392099,-20.9618712898804,0 -42.5364175053959,-20.9631636509971,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_756">
+<name>kml_756</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5323747187295,-20.9617326799843,0 -42.534133774082,-20.9605662606678,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_757">
+<name>kml_757</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5378117937224,-20.9637255708711,0 -42.538376165652,-20.9638962553754,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_758">
+<name>kml_758</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5364175053959,-20.9631636509971,0 -42.5378117937224,-20.9637255708711,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_759">
+<name>kml_759</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5319421587299,-20.9575443525309,0 -42.5319321418695,-20.9574577056789,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_760">
+<name>kml_760</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5351683929239,-20.9537459493393,0 -42.5349759022262,-20.9531743114081,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_761">
+<name>kml_761</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5351683929239,-20.9537459493393,0 -42.5344561984909,-20.9536413819195,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_762">
+<name>kml_762</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5354188413412,-20.9543003663149,0 -42.5351683929239,-20.9537459493393,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_763">
+<name>kml_763</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5394138447596,-20.9545296441977,0 -42.5406591162634,-20.9524437516371,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_764">
+<name>kml_764</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.536738526912,-20.9576513064492,0 -42.5367334512131,-20.9576384112845,0 -42.5354188413412,-20.9543003663149,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_765">
+<name>kml_765</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.536738526912,-20.9576513064492,0 -42.5394138447596,-20.9545296441977,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_766">
+<name>kml_766</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5354269228662,-20.9590860826904,0 -42.536738526912,-20.9576513064492,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_767">
+<name>kml_767</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5322028275964,-20.9599062492265,0 -42.5319421587299,-20.9575443525309,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_768">
+<name>kml_768</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.540295466061,-20.9646914766836,0 -42.54287680965,-20.9655594333351,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_769">
+<name>kml_769</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.533926885661,-20.9796243595058,0 -42.5306366105972,-20.9774186527723,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_770">
+<name>kml_770</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5349759022262,-20.9531743114081,0 -42.5347921350556,-20.9526569761119,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_771">
+<name>kml_771</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5347921350556,-20.9526569761119,0 -42.5347974399221,-20.9526441407416,0 -42.5349771438603,-20.9522128752077,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_772">
+<name>kml_772</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5349771438603,-20.9522128752077,0 -42.5361092863939,-20.9524996748097,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_773">
+<name>kml_773</name>
+<Style>
+<LineStyle>
+<color>ff00ff00</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5347921350556,-20.9526569761119,0 -42.5347775160299,-20.9526574870444,0 -42.532074147226,-20.9527521850332,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_774">
+<name>kml_774</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5334613911931,-20.9812158217024,0 -42.5335713412523,-20.9810774586565,0 -42.5336867796874,-20.9808039145541,0 -42.5338244214109,-20.9804779601897,0 -42.5339230491635,-20.9797994744126,0 -42.5339304048353,-20.9792343401384,0 -42.5340045273248,-20.9785843933471,0 -42.5341375570913,-20.9780355258537,0 -42.534319323183,-20.9775045196736,0 -42.5346384458194,-20.9769222281506,0 -42.5347821074748,-20.9767211460431,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_775">
+<name>kml_775</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5381079720214,-20.9738780339278,0 -42.538577406936,-20.9736256739619,0 -42.539100441952,-20.9732702484731,0 -42.5396893791628,-20.972999746899,0 -42.540373392564,-20.9727351307974,0 -42.5409676649783,-20.9725495782569,0 -42.5415801543967,-20.9724256867069,0 -42.5422582227477,-20.9723478863986,0 -42.5426032463617,-20.9723483497514,0 -42.5428763626951,-20.9723486780582,0 -42.5429390576321,-20.972336038273,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_776">
+<name>kml_776</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5347821222886,-20.9767202433162,0 -42.5350301540799,-20.9763689775883,0 -42.5351375429003,-20.9763102154092,0 -42.5356490697397,-20.9760303020738,0 -42.5362564341979,-20.9756923598958,0 -42.5366834291122,-20.9751558681005,0 -42.5371049477546,-20.9747773107115,0 -42.5375016083743,-20.9743315749095,0 -42.5377673933413,-20.9741224132561,0 -42.5380187634068,-20.973924600425,0 -42.5381070108841,-20.9738780200351,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_777">
+<name>kml_777</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5284633591881,-20.9757618373774,0 -42.5287445013924,-20.9759699811988,0 -42.529080482946,-20.9762224419128,0 -42.5294149486049,-20.9764736159467,0 -42.5295755677015,-20.9766447955038,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_778">
+<name>kml_778</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5284608345048,-20.9759153002179,0 -42.5287882946789,-20.9762182023358,0 -42.5289418939347,-20.9763602059361,0 -42.5292103312159,-20.9766394969139,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_779">
+<name>kml_779</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5306262476801,-20.9807449295472,0 -42.5307110974851,-20.9804960459862,0 -42.5307613838289,-20.979834920994,0 -42.5307088988619,-20.9791677909602,0 -42.5306150623389,-20.9786183462731,0 -42.530406406697,-20.9780356336186,0 -42.530227574362,-20.9775102384864,0 -42.5298693640559,-20.976960570991,0 -42.5295755528565,-20.9766456982271,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_780">
+<name>kml_780</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5292103163687,-20.9766403996369,0 -42.5294144801792,-20.9768528433331,0 -42.530096274441,-20.9773683786953,0 -42.5304782482467,-20.9779346433556,0 -42.5306807661157,-20.9785398404121,0 -42.530720996774,-20.97913365471,0 -42.5306771570475,-20.9798120290642,0 -42.5305342149492,-20.9807582224401,0 -42.530505614954,-20.9809481471378,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_781">
+<name>kml_781</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5262708081568,-20.9748072027416,0 -42.5263795748389,-20.9745072014904,0 -42.5267287962774,-20.9739082080529,0 -42.5272044136529,-20.9734564216928,0 -42.5280927091687,-20.9731641228781,0 -42.5280382857665,-20.973492002498,0 -42.527928515205,-20.9740285603711,0 -42.5279269953436,-20.9745883598551,0 -42.5280746361257,-20.9752559680632,0 -42.5281333361775,-20.9753635473115,0 -42.5284087438984,-20.9758675914721,0 -42.5284598733615,-20.9759152862695,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_782">
+<name>kml_782</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5236731548466,-20.9747459767063,0 -42.5236857388407,-20.9747407420605,0 -42.524453347414,-20.9747139778631,0 -42.5252505471551,-20.9748167600816,0 -42.5261736539778,-20.9750441669628,0 -42.5267556322804,-20.9751979922922,0 -42.5275766623292,-20.9752550601799,0 -42.5281166862742,-20.9755048863287,0 -42.5281308364596,-20.9755154754927,0 -42.5284623980458,-20.975761823429,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_783">
+<name>kml_783</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5231894415154,-20.9675226797276,0 -42.5231963178787,-20.9675137503388,0 -42.52345660835,-20.9674691370071,0 -42.5237930594609,-20.9674113638803,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_784">
+<name>kml_784</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5286636947134,-20.9635741685345,0 -42.5290267020904,-20.9634792070073,0 -42.5290267911191,-20.9634737906616,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_785">
+<name>kml_785</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5237940205465,-20.9674113778497,0 -42.5238509030627,-20.9674013693898,0 -42.5243792744388,-20.9671309437439,0 -42.5243871603286,-20.9671249183667,0 -42.524932276041,-20.9667073748101,0 -42.5254076154012,-20.9663296285213,0 -42.5259306247087,-20.9659173583686,0 -42.5267060656198,-20.9653534456804,0 -42.5274274243374,-20.964862785048,0 -42.5281301878105,-20.9644504068428,0 -42.5283147993581,-20.9643309174094,0 -42.5286539034882,-20.9641112753712,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_786">
+<name>kml_786</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5238212657667,-20.9657575941042,0 -42.5241558253738,-20.9655809659389,0 -42.5247506968039,-20.9652997666641,0 -42.5255068530036,-20.9651482218126,0 -42.5261434088898,-20.9649624311668,0 -42.5268462902925,-20.9646015278067,0 -42.5272851866974,-20.9642178286021,0 -42.5278020084449,-20.9639472231423,0 -42.5283254312296,-20.9636842963909,0 -42.5284204230071,-20.9636365544516,0 -42.5286627336488,-20.963574154595,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_787">
+<name>kml_787</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5286548645563,-20.964111289311,0 -42.5287734207886,-20.9640335502206,0 -42.5295545393738,-20.9636493900561,0 -42.5302632897673,-20.9633400239819,0 -42.5305909200887,-20.9631163286754,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_788">
+<name>kml_788</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5287684628832,-20.9572000315588,0 -42.5291772868496,-20.9571237914765,0 -42.5298912563752,-20.9570799643813,0 -42.530611226631,-20.9570804652974,0 -42.5314681178136,-20.9571723375794,0 -42.532157597339,-20.9573322110111,0 -42.5326424204704,-20.9576037926041,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_789">
+<name>kml_789</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5235002942704,-20.9540788569267,0 -42.5236421609305,-20.9539861096371,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_790">
+<name>kml_790</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5236421757936,-20.9539852069155,0 -42.5236791069688,-20.9539606417955,0 -42.5240182883142,-20.9537351394046,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_791">
+<name>kml_791</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5232289311369,-20.9539801055995,0 -42.5236722209405,-20.9543788727158,0 -42.5236788513457,-20.9543848381386,0 -42.524004125796,-20.9545954333152,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_792">
+<name>kml_792</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5240050867998,-20.9545954472752,0 -42.5241876974342,-20.9547136759107,0 -42.5245463813996,-20.9551721604428,0 -42.5247304659898,-20.9557265290278,0 -42.5246877967241,-20.9562748955829,0 -42.5244149878436,-20.9569643893908,0 -42.5244076069149,-20.9575295211472,0 -42.5250481157535,-20.9579776516984,0 -42.5253688268552,-20.9581098037201,0 -42.5256954583316,-20.9582443887781,0 -42.5265524542267,-20.9583299670888,0 -42.5268757186061,-20.9581316778894,0 -42.5271778150369,-20.9579462637675,0 -42.5276878869066,-20.9576755587419,0 -42.5282950571024,-20.9572870722295,0 -42.5284310051396,-20.9572620459124,0 -42.5287675018593,-20.9572000176239,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_793">
+<name>kml_793</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5407216256863,-20.9632628482192,0 -42.5406335501842,-20.9634168835902,0 -42.5411428552843,-20.9638982804775,0 -42.5417595459112,-20.9641031181263,0 -42.5424440380796,-20.9640416595535,0 -42.5427429150104,-20.9638059669936,0 -42.5429309658707,-20.963657706232,0 -42.543083032963,-20.963528971781,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_794">
+<name>kml_794</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5349715498309,-20.963179759261,0 -42.5353312079964,-20.9633474917168,0 -42.5359551759186,-20.963518143013,0 -42.5365612429908,-20.9633147148036,0 -42.5366226635029,-20.9632036378148,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_795">
+<name>kml_795</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5334885409242,-20.9624603242093,0 -42.533732145397,-20.962553241522,0 -42.5340986129463,-20.9627510525893,0 -42.534373417708,-20.9628993194639,0 -42.5349715646331,-20.9631788565327,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_796">
+<name>kml_796</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5365235060011,-20.9555849717775,0 -42.5371647574534,-20.9556375802597,0 -42.5378252437093,-20.955513487082,0 -42.5380737463842,-20.9554182945813,0 -42.5384114339231,-20.9552889943077,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_797">
+<name>kml_797</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5383716707715,-20.9577769359415,0 -42.5386519690279,-20.9579182319346,0 -42.5392270131506,-20.958257916815,0 -42.5393126468484,-20.9583117046802,0 -42.5398321634555,-20.9586377641645,0 -42.5399334145858,-20.9587358409384,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_798">
+<name>kml_798</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5363633202954,-20.9570896696723,0 -42.5363974715496,-20.9575867823957,0 -42.5364321839919,-20.9582256653795,0 -42.5364329940001,-20.9582701019178,0 -42.5364409936396,-20.9586853910553,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_799">
+<name>kml_799</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5336412181884,-20.9531459754997,0 -42.5341002919159,-20.9534045383494,0 -42.5346503633205,-20.9537296087509,0 -42.5347533705886,-20.9537905122308,0 -42.5349407035843,-20.9541489811726,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_800">
+<name>kml_800</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5384123949419,-20.955289008187,0 -42.5387799901567,-20.9551471366513,0 -42.5393390871208,-20.9546396272745,0 -42.5397227751759,-20.9542189755879,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_801">
+<name>kml_801</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5349406887889,-20.9541498839019,0 -42.5350516016669,-20.9543618736879,0 -42.535313064209,-20.9550067444609,0 -42.535629647528,-20.9555729529452,0 -42.5360843469749,-20.9561050399877,0 -42.5364185146633,-20.9566543456641,0 -42.5369873830146,-20.9569596361818,0 -42.5376159264199,-20.9572603695162,0 -42.5380380635829,-20.9575979390145,0 -42.5380770610317,-20.9576291121798,0 -42.5383707097368,-20.9577769220604,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_802">
+<name>kml_802</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5407216404541,-20.9632619454869,0 -42.5409530323644,-20.9628501106846,0 -42.5410503581174,-20.9626770661265,0 -42.5417652929876,-20.9622819590398,0 -42.5421808392834,-20.9616775617337,0 -42.5421164301716,-20.9610897176103,0 -42.54187181706,-20.9605290713711,0 -42.5413932421441,-20.9599912350392,0 -42.5408732154676,-20.9595783089401,0 -42.5403459758808,-20.9591363831112,0 -42.5399333998168,-20.9587367436706,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_803">
+<name>kml_803</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5364409788497,-20.9586862937852,0 -42.5364427376229,-20.9588136342635,0 -42.5364525962621,-20.9593853400893,0 -42.5364688563137,-20.9600356945196,0 -42.5365752190924,-20.9605844159142,0 -42.5366931298792,-20.9611324012701,0 -42.536877649328,-20.9618393645534,0 -42.5369111346172,-20.9626705566731,0 -42.5368459116555,-20.9627907888649,0 -42.5366226782953,-20.9632027350853,0 </coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_804">
+<name>kml_804</name>
+<Style>
+<LineStyle>
+<color>ffffffff</color>
+</LineStyle>
+</Style>
+<LineString>
+<coordinates>-42.5305909349172,-20.96311542595,0 -42.5309117923817,-20.9628943406028,0 -42.531361219594,-20.962711415532,0 -42.531494383572,-20.9626571818273,0 -42.5321553397314,-20.9623308617605,0 -42.5327500854852,-20.9621787508479,0 -42.5331540820994,-20.9623330436188,0 -42.5334875798632,-20.9624603102977,0 </coordinates>
+</LineString>
+</Placemark>
+</Folder>
+</Document></kml>
